@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sponsors">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/static/img/sponsors/Wentao Ning Member_model.zip!/" />
+      <root url="jar://$PROJECT_DIR$/static/img/sponsors/Assignment_in_2018.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
