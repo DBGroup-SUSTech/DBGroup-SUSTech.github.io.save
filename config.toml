@@ -2,7 +2,7 @@ publishdir = "docs"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://10.16.3.226/DBGroup"
+baseurl = "https://dbgroup-sustech.github.io"
 canonifyurls = true
 theme = "academic-group"
 title = "DBGroup"
