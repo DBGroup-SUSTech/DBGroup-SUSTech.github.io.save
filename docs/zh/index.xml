@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DBGroup</title>
-    <link>https://10.16.3.226/DBGroup/zh/</link>
+    <link>https://dbgroup-sustech.github.io/zh/</link>
     <description>Recent content on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 15:52:22 +0200</lastBuildDate><atom:link href="https://10.16.3.226/DBGroup/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jan 2021 15:52:22 +0200</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>张超祖</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/zhang_chaozu/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/zhang_chaozu/</link>
       <pubDate>Mon, 18 Jan 2021 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/zhang_chaozu/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/zhang_chaozu/</guid>
       <description>(这里是详细的个人简介) 张超祖是DBGroup 2017级本科生，大二暑期进入DBGroup，现在在申博士的带领和指导下，重点关注在大规模轨迹数据的采样和可视化研究。</description>
     </item>
     
     <item>
       <title>王腾</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/wang_teng_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/wang_teng_zh/</link>
       <pubDate>Sat, 16 Jan 2021 12:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/wang_teng_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/wang_teng_zh/</guid>
       <description>(这里是详细的个人简介)</description>
     </item>
     
     <item>
       <title>曹嘉平</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/caojiaping_zn/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/caojiaping_zn/</link>
       <pubDate>Thu, 14 Jan 2021 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/caojiaping_zn/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/caojiaping_zn/</guid>
       <description>曹嘉平目前在读于香港理工大学计算机系博士生项目，导师Dr. Ken Yiu。他也是SUSTech DBGroup下Flink系统组的一员。</description>
     </item>
     
     <item>
       <title>黎泽林</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/li_zelin_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/li_zelin_zh/</link>
       <pubDate>Thu, 31 Dec 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/li_zelin_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/li_zelin_zh/</guid>
       <description>我叫黎泽林,是南方科技大学大四计算机系在读本科生,我目前主要的研究方向是人脸图像超分辨率.</description>
     </item>
     
     <item>
       <title>Peiqi Yin</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/yin_peiqi_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/yin_peiqi_zh/</link>
       <pubDate>Wed, 30 Dec 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/yin_peiqi_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/yin_peiqi_zh/</guid>
       <description>尹沛骐是一个在南方科技大学DBgroup学习的本科生，跟随导师唐博。他是南方科技大学ACM集训队成员并且对算法感兴趣。他曾经获得过ICPC（上海）2020银牌，CCPC（秦皇岛）2020银牌，GMCPC（粤澳程序设计竞赛）2020金牌，ICPC（徐州）2019最快解题奖。</description>
     </item>
     
     <item>
       <title>毛尊尧</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/maozunyao/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/maozunyao/</link>
       <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/maozunyao/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/maozunyao/</guid>
       <description>毛尊尧，南方科技大学本科生，今年大三。目前我参与的是GPU加速大数据仓库HIVE和执行引擎TEZ的相关工作。</description>
     </item>
     
     <item>
       <title>CheetahVIS: A Visual Analytical System for Large Urban Bus Data</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/ningwentao_publication_1/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/ningwentao_publication_1/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>大数据系统查询优化</title>
-      <link>https://10.16.3.226/DBGroup/zh/project/system/</link>
+      <link>https://dbgroup-sustech.github.io/zh/project/system/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/project/system/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/project/system/</guid>
       <description>当数据规模非常大时，企业通常会引入分布式大数据系统对数据进行分析或处理。为了便于开发人员交互，集群上又通常有Hive、Flink等基于SQL实现查询操作的系统。在此场景下，查询时间是评判一个系统好坏的重要指标。为了提高开发生产效率，降低运维成本，对这些系统进行优化成为一个重要的课题。我们将从以下方面开展研究
  优化查询优化器的组件，如基数估计，使得优化器对查询代价的估算更加准确，从而实现更小代价的查询计划。 在大数据系统中引入GPU等新硬件，从而提升物理查询的速度。  </description>
     </item>
     
     <item>
       <title>大规模相似性检索</title>
-      <link>https://10.16.3.226/DBGroup/zh/project/large-scale-similarity-search/</link>
+      <link>https://dbgroup-sustech.github.io/zh/project/large-scale-similarity-search/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/project/large-scale-similarity-search/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/project/large-scale-similarity-search/</guid>
       <description>相似性检索是指对于一个给定的查询，在包含众多物品的数据集中，找出与其最相似物品的任务。相似性检索是数据处理中最常见的操作之一，有着包括推荐、图片检索、文件检索和实体识别在内的众多应用。由于其广泛的应用，包括Google, Microsoft 和Facebook在内的众多公司都在开展相似性检索研究。但高效相似性检索面临着诸多挑战——数据集的规模很大，可以包含上亿个高维向量；检索对处理时延和结果质量的要求都很高，例如在10ms内召回率达到0.9. 在这个课题下，我们将从以下方面开展研究：
  设计针对不同相似性度量的检索算法，包括欧氏距离，内积，编辑距离等； 利用先进硬件进行相似性检索，例如GPU, SSD 和NVM； 横跨多台服务器的分布式相似性检索； 用机器学习技术改善相似性检索算法。  </description>
     </item>
     
     <item>
       <title>数据可视化</title>
-      <link>https://10.16.3.226/DBGroup/zh/project/vis_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/project/vis_zh/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/project/vis_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/project/vis_zh/</guid>
       <description>时空数据可视化 数据可视化是分析大规模时空数据的主要方法之一，旨在通过结合人类明锐的感知能力和计算机高效的计算能力来完成对数据中知识的发现和总结。 然而，大规模的时空数据可视化面临两个主要问题：1）大数据可视化会带来较长的交互时延，导致交互分析过的过程不连续；2）大量视觉元素带来的视觉混乱，导致有效信息被隐藏。 我们将结合以下技术来解决这些问题：
  数据缩减（data reduction） 近似查询（approximate query） 基于可视化任务的数据物化  高性能计算系统可视分析 高性能计算系统（High-performance computing，HPC）目前被广泛使用到大规模数据存储，查询和分析中。但针对HPC的分析工具任然缺乏。 我们将研发相应的可视分析工具，该工具可集成于现有特定HPC（如Hive，Flink）中，用以展示，分析HPC运作过程，诊断HPC运行时出现的问题。</description>
     </item>
     
     <item>
       <title>计算机视觉和生物特征识别</title>
-      <link>https://10.16.3.226/DBGroup/zh/project/project_zengd_short_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/project/project_zengd_short_zh/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/project/project_zengd_short_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/project/project_zengd_short_zh/</guid>
       <description>Reserach Project I - 二维人脸识别以及三维人脸建模 近年来，非约束环境下的人脸识别技术取得了显著的发展，甚至在一些公开数据库上人脸识别技术早已超越了人眼识别的准确率，取得了令人满意的结果。但在面向公共安全的监控环境下，采集的人脸图像姿态变化大、分辨率低、光照及表情均不可控，由这些因素引起的人脸外观的复杂变化可能会大于由身份差异带来的变化，这使得人脸识别性能急剧下降。
 三维人脸重建指从单张二维图像中估计出人脸三维几何信息，是计算机视觉领域的热门课题。三维人脸重建有着广泛的现实应用，包括：辅助人脸识别、生成人脸动画，以及进行人脸表情分析。本质上，这是个病态问题因为不同的三维人脸模型可映射得到相同的二维人脸图像。
 本人博士期间从事人脸识别集人脸三维建模工作，发表的论文请见CV。
@@ -119,110 +119,110 @@ Reserach Project IV - 面向股票预测的表情识别 表情识别对人脸图
     
     <item>
       <title>Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_1/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_1/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_1/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keming Li</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/likeming_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/likeming_zh/</link>
       <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/likeming_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/likeming_zh/</guid>
       <description>李可明本科毕业于南方科技大学计算机科学与工程系， 曾在华为开发岗实习。</description>
     </item>
     
     <item>
       <title>Yan Xiao</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/yan-xiao_member_model/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/yan-xiao_member_model/</link>
       <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/yan-xiao_member_model/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/yan-xiao_member_model/</guid>
       <description>Dr. Yan Xiao received his Ph.D. degree from The Chinese University of Hong Kong under the supervision of Professor James Cheng.</description>
     </item>
     
     <item>
       <title>曾 剑</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/zeng_jian_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/zeng_jian_zh/</link>
       <pubDate>Wed, 29 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/zeng_jian_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/zeng_jian_zh/</guid>
       <description>曾剑在中山大学获得硕士学位，曾在智慧城市物联网国家重点实验室（澳门大学）参加访问研究工作。</description>
     </item>
     
     <item>
       <title>宁文韬</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/ning_wentao_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/ning_wentao_zh/</link>
       <pubDate>Tue, 14 Jan 2020 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/ning_wentao_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/ning_wentao_zh/</guid>
       <description>南方科技大学-香港大学联合培养博士生，研究方向为基于知识图谱的推荐系统算法。</description>
     </item>
     
     <item>
       <title>Combined training strategy for low-resolution face recognition with limited applicationspecific data</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_2/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_2/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_2/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating Top Ranking Options in the Continuous Option and Preference Space</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tang2019pvldb/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tang2019pvldb/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tang2019pvldb/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tang2019pvldb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tangsigir2019/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tangsigir2019/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Likelihood Ratio based Loss to finetune CNNs for Very Low Resolution Face Verification</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_3/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_3/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tang2018pvldb/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tang2018pvldb/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tang2018pvldb/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tang2018pvldb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Join DBGroup</title>
-      <link>https://10.16.3.226/DBGroup/zh/join-us/</link>
+      <link>https://dbgroup-sustech.github.io/zh/join-us/</link>
       <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/join-us/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/join-us/</guid>
       <description>Introduction 大数据时代，需要稳健扩展性强的数据系统，高效泛用的分析和检索算法，智能直观的可视化框架。 DBGroup是个开放、平等、奋进的大家庭，是大家相互砥砺学习，共克科研难题的平台。 如果你对系统、算法和人工智能感兴趣，如果你有良好的实现和数学基础，如果你对科研充满热情，欢迎加入DBGroup！ 让我们一起为大数据构筑基础，从数据中发现价值~
 简历请发送到: tangb3@sustech.edu.cn</description>
     </item>
     
     <item>
       <title>Join DBGroup</title>
-      <link>https://10.16.3.226/DBGroup/zh/research/starter-guide/</link>
+      <link>https://dbgroup-sustech.github.io/zh/research/starter-guide/</link>
       <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/research/starter-guide/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/research/starter-guide/</guid>
       <description>Introduction (Introduction here)
 Research (Research Description here)
 Mission Methodology Expectations and Deliverables Workflow and Tools </description>
@@ -230,289 +230,289 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     
     <item>
       <title>Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_4/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_4/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_4/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On 3D face reconstruction via cascaded regression in shape space</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_5/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_5/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining the Impact Regions of Competing Options in Preference Space</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tangsigmod2017/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tangsigmod2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tangsigmod2017/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tangsigmod2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determining the Impact Regions of Competing Options in Preference Space</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_1/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_1/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_1/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extracting Top-K Insights from Multi-dimensional Data</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tansigmod2017_2/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tansigmod2017_2/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tansigmod2017_2/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tansigmod2017_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extracting Top-K Insights from Multi-dimensional Data</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_2/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_2/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_2/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tangedbt2017/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tangedbt2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tangedbt2017/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tangedbt2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance.</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_3/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_3/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tb_publication_test_3/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examplar Coherent 3D Face Reconstruction from Forensic Mugshot Database</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_6/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_6/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_6/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Face Alignment and 3D Face Reconstruction</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_7/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_7/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_7/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bo Huang</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/huangbo/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/huangbo/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/huangbo/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/huangbo/</guid>
       <description>Bo Huang is a member of Database Research Group. He is supervised by Prof. Bo Tang.</description>
     </item>
     
     <item>
       <title>Bo Tang</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/tangbo/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/tangbo/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/tangbo/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/tangbo/</guid>
       <description>Bo Tang received the PhD Degree in the Department of Computing at the The Hong Kong Polytechnic University. He was a member of Database Research Group. He was supervised by Dr. Ken Yiu. He was a visiting researcher at MonetDB group (Amsterdam) and Microsoft Research Asia (Beijing). Before that, he obtained his BEng degree in computer science from Sichuan University.</description>
     </item>
     
     <item>
       <title>Haotian Liu</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/liuhaotian/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/liuhaotian/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/liuhaotian/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/liuhaotian/</guid>
       <description>Haotian Liu received the Bachelor&amp;rsquo;s degree at Southern University of Science and Technology (SUSTech). He is one of the 16th undergraduates in DBGroup, and supervised by Prof. Bo Tang. He joined DBGroup at 2019. He is a postgraduate students in SUSTech now.</description>
     </item>
     
     <item>
       <title>Mingji Han</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/hanmingji_en/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/hanmingji_en/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/hanmingji_en/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/hanmingji_en/</guid>
       <description>Mingji Han is a senior undergraduate student majoring computer science at Southern University of Science and Technology. His research interest mainly lies on database system including graph database, modern hardware and query processing.</description>
     </item>
     
     <item>
       <title>Wendi Luan</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/luanwendi/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/luanwendi/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/luanwendi/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/luanwendi/</guid>
       <description>Wendi Luan is an senior undergraduate student in CSE Department @ SUSTech. Her major research interest is in data visualization.</description>
     </item>
     
     <item>
       <title>Zhengxin You</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/youzhengxin/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/youzhengxin/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/youzhengxin/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/youzhengxin/</guid>
       <description>Zhengxin You is a college student of SUSTech. He joined DBGroup in the middle of 2020. Now he&amp;rsquo;s working on big data visualization.</description>
     </item>
     
     <item>
       <title>傅伟堡</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/fuweibao_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/fuweibao_zh/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/fuweibao_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/fuweibao_zh/</guid>
       <description>傅伟堡是南方科技大学计算机科学与技术专业的一名本科生，导师为唐博老师。他连续获得2019和2020优秀学生奖学金一等奖，目前在做人脸超分的相关工作。</description>
     </item>
     
     <item>
       <title>卢斓</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/lu_lan_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/lu_lan_zh/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/lu_lan_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/lu_lan_zh/</guid>
       <description>卢斓现于南方科技大学修读计算机科学与工程系的本科学位。她于2020年加入DB组，在唐博教授以及晏潇博士的指导下进行相似性检索方面的研究。</description>
     </item>
     
     <item>
       <title>曾丹</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/member_model_zengd_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/member_model_zengd_zh/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/member_model_zengd_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/member_model_zengd_zh/</guid>
       <description>曾丹于2013年获得四川大学学士学位，于2018年获得四川大学博士学位，指导老师为游志胜教授以及赵启军教授。从2012年起，她入选‘3+2+3’本硕博连读计划（前5%）。在2018年至2020年期间，她在荷兰特文特大学的数据管理及生物特征识别实验室从事博士后研究，合作指导老师为Raymond教授。她的研究方向包括：生物特征识别、医学生物特征以及计算机视觉。近期，她的研究兴趣涵盖：人脸图像超分、人脸识别、三维人脸建模、视网膜识别、表情识别等。她是IEEE会员。</description>
     </item>
     
     <item>
       <title>李倩</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/li_qian_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/li_qian_zh/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/li_qian_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/li_qian_zh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>邓楠</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/nan_deng_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/nan_deng_zh/</link>
       <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/nan_deng_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/nan_deng_zh/</guid>
       <description>我是南方科技大学计算机系大四学生，在数据库组的课题是基于Flink实现GPU版本的sql执行引擎。</description>
     </item>
     
     <item>
       <title>Towards resolution invariant face recognition in uncontrolled scenarios</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_8/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_8/</link>
       <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_8/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Approach to Mugshot Based Arbitrary View Face Recognition</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_9/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_9/</link>
       <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_9/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tangtkde2016/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tangtkde2016/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tangtkde2016/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tangtkde2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example-Based 3D Face Reconstruction from Uncalibrated Frontal and Profile Images</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_10/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_10/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/zengd_publication_10/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diversified Caching for Replicated Web Search Engines</title>
-      <link>https://10.16.3.226/DBGroup/zh/publication/tangicde2015/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tangicde2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/publication/tangicde2015/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tangicde2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About DBGroup</title>
-      <link>https://10.16.3.226/DBGroup/zh/about/</link>
+      <link>https://dbgroup-sustech.github.io/zh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/about/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/about/</guid>
       <description>About DB Group The research group introduction should be given here.  Group Photo    Group Photo   </description>
     </item>
     
     <item>
       <title>Enhuai Liu</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/liuenhuai/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/liuenhuai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/liuenhuai/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/liuenhuai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiashu Zhang</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/zhangjiashu/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/zhangjiashu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/zhangjiashu/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/zhangjiashu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ting Sun</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/sunting/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/sunting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/sunting/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/sunting/</guid>
       <description>My name is Ting Sun and I am a BSc student in the Database Group of the Department of Computer Science and Engineering at Southern University of Science and Technology. My research focuses on streaming data processing.</description>
     </item>
     
     <item>
       <title>Xiang Ji</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/jixiang/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/jixiang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/jixiang/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/jixiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>关于我们</title>
-      <link>https://10.16.3.226/DBGroup/zh/about-us/</link>
+      <link>https://dbgroup-sustech.github.io/zh/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/about-us/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/about-us/</guid>
       <description>Introduction 南方科技大学数据库课题组（DBGroup@SUSTech）成立于2017年， 隶属于计算机科学与工程系。 目前团队成员已超过30人，包括助理教授一名，研究助理教授两名，访问学者一名，博士研究生（含访问）七名，硕士研究生四人，以及若干本科生研究助理。 团队主要研究方向包括大数据分析系统、大规模信息检索、信息可视化和计算机视觉。 DBGroup研究成果一贯发表在数据领域顶级会议和期刊上，如SIGMOD、PVLDB、ICDE，TKDE等。课题组的主要研究目标包括：
   架构新型数据库系统，支撑未来数据业务；
   设计原创算法，提高数据库业务效率；
@@ -526,19 +526,19 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     
     <item>
       <title>武尚萱</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/wushangxuan/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/wushangxuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/wushangxuan/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/wushangxuan/</guid>
       <description>我是南方科技大学计算机系的大三学生，主要研究方向是数据可视化。</description>
     </item>
     
     <item>
       <title>江文</title>
-      <link>https://10.16.3.226/DBGroup/zh/member/jiangwen_zh/</link>
+      <link>https://dbgroup-sustech.github.io/zh/member/jiangwen_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://10.16.3.226/DBGroup/zh/member/jiangwen_zh/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/member/jiangwen_zh/</guid>
       <description>江文是南方科技大学计算机科学与工程专业的一名本科生，导师为唐博老师，目前在组内做深度学习和计算机视觉方向的工作。</description>
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DBGroup</title>
-    <link>https://10.16.3.226/DBGroup/tags/</link>
+    <link>https://dbgroup-sustech.github.io/tags/</link>
     <description>Recent content in Tags on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; DB Group, 2020 </copyright><atom:link href="https://10.16.3.226/DBGroup/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DB Group, 2020 </copyright><atom:link href="https://dbgroup-sustech.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
