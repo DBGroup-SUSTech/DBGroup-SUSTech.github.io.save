@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danielmao1.github.io//sitemap.xml
