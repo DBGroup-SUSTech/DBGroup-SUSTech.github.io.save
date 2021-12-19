@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-projects on DBGroup</title>
+    <link>https://dbgroup-sustech.github.io/zh/open-projects/</link>
+    <description>Recent content in Open-projects on DBGroup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; DB Group, 2020 </copyright>
+    <lastBuildDate>Fri, 22 May 2020 14:45:00 +0200</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/open-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porject1</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/</guid>
+      <description>Efficient and effective data visualization Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight.</description>
+    </item>
+    
+    <item>
+      <title>Project2</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/</guid>
+      <description>Large-scale Similarity Search Similarity search is the task that finds the items that are most similar to a query in a large collection of items. Similarity search is a common task in data science with many applications including recommendation, image search, document retrieval and entity resolution. Many famous companies are devoted to researches on similarity search, e.g., Google, Microsoft and Facebook. However, efficient similarity search is challenging due to large dataset cardinality (e.</description>
+    </item>
+    
+    <item>
+      <title>Project3</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/</guid>
+      <description>Reserach Project I - 2D Face recognition and 3D Face Modeling Face recognition accuracy has already exceeded the human eye recognition on some public face databases. However, under the public security oriented surveillance environment, the captured face images suffer from many challengs such as pose variation, low resolution, illumination variation and uncontrolled expressions. The changes due to these challenges maybe large than that caused by different identities, which makes the performance of face recognition decrease tremendously.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -99,9 +99,9 @@ tag = "tags"
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
     count = 2
-    title = "Blog"
-    subtitle = ""
-    str_all = "More Posts"
+    title = "News"
+ #   subtitle = "subtitle"
+    str_all = "View All"
     str_read_more = "Read more"
 
   # Projects section.
@@ -217,7 +217,7 @@ weight=1
   # Section will only be displayed if there are posts in `content/post/`.
   [Languages.zh.params.posts]
     count = 2
-    title = "博客"
+    title = "新闻"
     subtitle = ""
     str_all = "更多"
     str_read_more = "更多"
@@ -230,6 +230,12 @@ weight=1
     count = 4
     str_all = "更多"
 
+ [Languages.zh.params.open_projects]
+     enable = true
+   title = "进行中项目"
+   subtitle = ""
+   count = 3
+   str_all = ""
   # Vacancies section
   # Section will only be displayed if there are valid vacancies in `content/vacancy`
 #  [params.open_projects]
