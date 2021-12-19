@@ -37,24 +37,46 @@ tag = "tags"
     image = "img/DBGroup_logo.jpg"
     url = "/#home"
 
-  [[params.navbar_hierarchy]]
-    name = "CSE"
-    link = "http://cse.sustech.edu.cn/"
-    position = 1
+#   [[params.navbar_hierarchy]]
+#     name = "CSE"
+#     link = "http://cse.sustech.edu.cn/"
+#     position = 1
 
   [[params.navbar_hierarchy]]
-    name = "DBGroup"
-    link = "/"
-    position = 2
+    name = "DBGroup @ SUSTech"
+    link = "https://www.sustech.edu.cn/"
+    position = 1
 
   [[params.sponsors]]
     name = "Huawei"
     link = "https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb"
     image = "/own_img/huawei.jpg"
-#  [[params.sponsors]]
-#    name = "Tencent"
-#    link = "http://www.tencent.com.cn"
-#    image = "/img/sponsors/tencent.jpg"
+ [[params.sponsors]]
+   name = "ByteDance"
+   link = "https://www.bytedance.com/"
+   image = "/img/sponsors/bytedance.jpg"
+
+    [[params.sponsors]]
+      name = "ali"
+      link = "http://www.alibaba.com"
+      image = "/img/sponsors/ali.png"
+                [[params.sponsors]]
+                  name = "nus"
+                  link = "https://www.nus.edu.sg/"
+                  image = "/img/sponsors/nus.jpg"
+                            [[params.sponsors]]
+                              name = "guowei"
+                              link = "http://www.smit.com.cn/"
+                              image = "/img/sponsors/guowei.png"
+       [[params.sponsors]]
+         name = "hku"
+         link = "https://www.hku.hk/"
+         image = "/img/sponsors/hku.png"
+          [[params.sponsors]]
+            name = "polyU"
+            link = "https://www.polyu.edu.hk/tc/"
+            image = "/img/sponsors/polyU.png"
+
 
   # Selected Publications section.
   [params.publications_selected]
@@ -85,18 +107,18 @@ tag = "tags"
   # Projects section.
   # Section will only be displayed if there are projects in `content/project/`.
   [params.projects]
-    title = "Projects"
+    title = "Research Area"
     subtitle = ""
     count = 4
     str_all = "More Projects"
 
   # Vacancies section
   # Section will only be displayed if there are valid vacancies in `content/vacancy`
-#  [params.open_projects]
-#    title = "Open projects"
-#    subtitle = ""
-#    count = 3
-#    str_all = "All open projects"
+ [params.open_projects]
+   title = "Ongoing Projects"
+   subtitle = ""
+   count = 3
+   str_all = ""
 
   # Contact section.
   [params.contact]
@@ -140,7 +162,7 @@ tag = "tags"
 
   [[menu.main]]
     name = "Team"
-    url = "/#members"
+    url = "/team/"
     weight = 4
 
 
