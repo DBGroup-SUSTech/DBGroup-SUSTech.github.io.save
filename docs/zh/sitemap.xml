@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dbgroup-sustech.github.io/zh/</loc>
-    <lastmod>2021-01-18T15:52:22+02:00</lastmod>
+    <lastmod>2021-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,32 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/post/post2/</loc>
+    <lastmod>2021-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/post2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/post2/"
+                />
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/post/</loc>
+    <lastmod>2021-12-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/"
                 />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/team/</loc>
@@ -42,6 +68,32 @@
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/member/yin_peiqi_zh/</loc>
     <lastmod>2020-12-30T15:52:22+02:00</lastmod>
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/</loc>
+    <lastmod>2020-12-27T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/"
+                />
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/zrh/</loc>
+    <lastmod>2020-12-27T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/zrh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/zrh/"
+                />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/member/maozunyao/</loc>
     <lastmod>2020-09-01T15:52:22+02:00</lastmod>
@@ -95,56 +147,17 @@
                 href="https://dbgroup-sustech.github.io/zh/project/"
                 />
   </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/open-projects/</loc>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/gan/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dbgroup-sustech.github.io/open-projects/"
+                href="https://dbgroup-sustech.github.io/open-projects/gan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/open-projects/"
-                />
-  </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/</loc>
-    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/open-projects/project_model_vis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/"
-                />
-  </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/</loc>
-    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/open-projects/large-scale-similarity-search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/"
-                />
-  </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/</loc>
-    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/open-projects/project_model_zengd_short/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/gan/"
                 />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/project/system/</loc>
@@ -158,6 +171,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/project/system/"
+                />
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/gpu_sql/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/"
                 />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/project/large-scale-similarity-search/</loc>
@@ -175,6 +201,19 @@
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/project/vis_zh/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/project_peiqiyuan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/"
+                />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/project/project_zengd_short_zh/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
@@ -632,18 +671,6 @@
                 href="https://dbgroup-sustech.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/post/post2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/post/post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/post/post2/"
-                />
-  </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/post/post1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -690,18 +717,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/post/post3/"
-                />
-  </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/post/"
                 />
   </url><url>
     <loc>https://dbgroup-sustech.github.io/zh/tags/</loc>

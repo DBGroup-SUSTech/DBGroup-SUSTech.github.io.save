@@ -37,9 +37,9 @@
 
 
     <link rel="shortcut icon" href="https://dbgroup-sustech.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://dbgroup-sustech.github.io/zh/about/">
+    <link rel="canonical" href="https://dbgroup-sustech.github.io/zh/open-projects/zrh/">
 
-    <title>About DBGroup | DBGroup</title>
+    <title>中瑞恒大型综合体生命系统大数据平台 | DBGroup</title>
 
 </head>
 
@@ -87,7 +87,7 @@
 
     
     <li class="list f5 f4-ns fw4 dib pr3">
-        <a class="hover-white no-underline white-90" href="https://dbgroup-sustech.github.io/about/">English</a>
+        <a class="hover-white no-underline white-90" href="https://dbgroup-sustech.github.io/open-projects/zrh/">English</a>
     </li>
     
 
@@ -140,43 +140,18 @@
 
 
 <div class="container">
-    <h1 id="about-db-group">About DB Group</h1>
-<h2 id="the-research-group-introduction-should-be-given-here">The research group introduction should be given here.</h2>
-<p>
-
-
-
-
-
-
-
-<figure>
-<img
-        
-
-src="https://dbgroup-sustech.github.io/own_img/group_photo_one.jpg"
- width="400px"/> <figcaption>
-    <h4>Group Photo</h4>
-</figcaption>
-</figure>
-
-
-
-
-
-
-
-
-<figure>
-<img
-        
-
-src="https://dbgroup-sustech.github.io/own_img/group_photo_two.jpg"
- width="400px"/> <figcaption>
-    <h4>Group Photo</h4>
-</figcaption>
-</figure></p>
-
+    <h2 id="项目介绍">项目介绍</h2>
+<p>深圳市中瑞恒管理策划有限公司旨在充分利用“互联网+”技术构建出横跨多个行业、多个专业的安全隐患数据库及安全完好率评估标准库，致力于引领企业安全管理模式变革及安全咨询模式创新。由于现有的可视化平台数据展示形式有限，不足以满足公司的定制化需求，为此，我们设计了数据库可视化、数据可视化、数据分析和数据洞察四大模块，实现了界面化的数据库管理，有效地降低了对数据库的操作门槛和操作成本，利用数据聚合函数、洞察算法结合可视化等方式展现了不同层级的数据聚合、分析结果，深入挖掘、洞察了高维数据特征，通过可视化手段为探索更深层次的数据内在关系提供了良好保证。</p>
+<h2 id="项目架构">项目架构</h2>
+<img src="https://dbgroup-sustech.github.io/img/projects/zrh/framework.png" width="100%"/>
+<h2 id="项目难点">项目难点</h2>
+<p><strong>权限管理:</strong> 项目系统共有四个子模块，用户权限结构复杂，每个层级的用户在四个模块中均有着完全不同的功能行为，四个模块之间的权限信息交互成为一大难点。我们最终采用URL传参与声明全局变量的方法来保持模块间权限信息的一致性。</p>
+<p><strong>数据清洗:</strong> 企业数据库信息量庞大，列信息大量冗余，多数表缺少必要的主键外键等，表间耦合性较高，直接使用企业的数据库并不现实。我们将表单模块化，删除冗余列，通过聚合表单、创建主键、添加外键和索引等对企业数据库进行重构，并将部分数据缓存至前端与后端框架中以提升查询速度。</p>
+<p><strong>可视化质量:</strong> 中瑞恒公司致力于为客户提供安全分析咨询等一系列服务，专业方向与我们的团队相差甚远，如何提升数据可视分析的质量成为难题。我们与该企业相关方面的专家密切联系，了解业其内标准与行业指标，为其设计个性化的分析算法与数据可视化方式，提高可视分析质量。</p>
+<h2 id="可视化效果展示">可视化效果展示</h2>
+<center><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis1.png" width=50% /><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis2.png" width="50%"/></center>
+<center><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis3.png" width=50% /><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis4.png" width="50%"/></center>
+<center><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis5.png" width=50% /><img src="https://dbgroup-sustech.github.io/img/projects/zrh/zrhvis6.png" width="50%"/></center>
 </div>
 
 <footer class="site-footer">

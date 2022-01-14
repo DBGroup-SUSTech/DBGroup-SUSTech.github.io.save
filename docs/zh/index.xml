@@ -6,7 +6,16 @@
     <description>Recent content on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 15:52:22 +0200</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DBGroup2021年末团建活动圆满结束</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/post2/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/post2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>张超祖</title>
       <link>https://dbgroup-sustech.github.io/zh/member/zhang_chaozu/</link>
@@ -53,6 +62,19 @@
     </item>
     
     <item>
+      <title>中瑞恒大型综合体生命系统大数据平台</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/zrh/</link>
+      <pubDate>Sun, 27 Dec 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/zrh/</guid>
+      <description>项目介绍 深圳市中瑞恒管理策划有限公司旨在充分利用“互联网+”技术构建出横跨多个行业、多个专业的安全隐患数据库及安全完好率评估标准库，致力于引领企业安全管理模式变革及安全咨询模式创新。由于现有的可视化平台数据展示形式有限，不足以满足公司的定制化需求，为此，我们设计了数据库可视化、数据可视化、数据分析和数据洞察四大模块，实现了界面化的数据库管理，有效地降低了对数据库的操作门槛和操作成本，利用数据聚合函数、洞察算法结合可视化等方式展现了不同层级的数据聚合、分析结果，深入挖掘、洞察了高维数据特征，通过可视化手段为探索更深层次的数据内在关系提供了良好保证。
+项目架构 项目难点 权限管理: 项目系统共有四个子模块，用户权限结构复杂，每个层级的用户在四个模块中均有着完全不同的功能行为，四个模块之间的权限信息交互成为一大难点。我们最终采用URL传参与声明全局变量的方法来保持模块间权限信息的一致性。
+数据清洗: 企业数据库信息量庞大，列信息大量冗余，多数表缺少必要的主键外键等，表间耦合性较高，直接使用企业的数据库并不现实。我们将表单模块化，删除冗余列，通过聚合表单、创建主键、添加外键和索引等对企业数据库进行重构，并将部分数据缓存至前端与后端框架中以提升查询速度。
+可视化质量: 中瑞恒公司致力于为客户提供安全分析咨询等一系列服务，专业方向与我们的团队相差甚远，如何提升数据可视分析的质量成为难题。我们与该企业相关方面的专家密切联系，了解业其内标准与行业指标，为其设计个性化的分析算法与数据可视化方式，提高可视分析质量。
+可视化效果展示   </description>
+    </item>
+    
+    <item>
       <title>毛尊尧</title>
       <link>https://dbgroup-sustech.github.io/zh/member/maozunyao/</link>
       <pubDate>Tue, 01 Sep 2020 15:52:22 +0200</pubDate>
@@ -71,30 +93,12 @@
     </item>
     
     <item>
-      <title>Porject1</title>
-      <link>https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/</link>
+      <title>GAN inversion for image restoration</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/gan/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_model_vis/</guid>
-      <description>Efficient and effective data visualization Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight.</description>
-    </item>
-    
-    <item>
-      <title>Project2</title>
-      <link>https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/</link>
-      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/zh/open-projects/large-scale-similarity-search/</guid>
-      <description>Large-scale Similarity Search Similarity search is the task that finds the items that are most similar to a query in a large collection of items. Similarity search is a common task in data science with many applications including recommendation, image search, document retrieval and entity resolution. Many famous companies are devoted to researches on similarity search, e.g., Google, Microsoft and Facebook. However, efficient similarity search is challenging due to large dataset cardinality (e.</description>
-    </item>
-    
-    <item>
-      <title>Project3</title>
-      <link>https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/</link>
-      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_model_zengd_short/</guid>
-      <description>Reserach Project I - 2D Face recognition and 3D Face Modeling Face recognition accuracy has already exceeded the human eye recognition on some public face databases. However, under the public security oriented surveillance environment, the captured face images suffer from many challengs such as pose variation, low resolution, illumination variation and uncontrolled expressions. The changes due to these challenges maybe large than that caused by different identities, which makes the performance of face recognition decrease tremendously.</description>
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/gan/</guid>
+      <description>Project Introduction As a kind of generative model, GAN can transform a random noise to a specific domain of image like face image, car image, cat image, etc. Its performance is quite remarkable such that it is hard for humans to distinguish between the pictures it generates and the real pictures, which makes people think that GAN has learned the physical rules behind the pictures it generates. We call what it learns as GAN prior.</description>
     </item>
     
     <item>
@@ -105,6 +109,15 @@
       <guid>https://dbgroup-sustech.github.io/zh/project/system/</guid>
       <description>当数据规模非常大时，企业通常会引入分布式大数据系统对数据进行分析或处理。为了便于开发人员交互，集群上又通常有Hive、Flink等基于SQL实现查询操作的系统。在此场景下，查询时间是评判一个系统好坏的重要指标。为了提高开发生产效率，降低运维成本，对这些系统进行优化成为一个重要的课题。我们将从以下方面开展研究
  优化查询优化器的组件，如基数估计，使得优化器对查询代价的估算更加准确，从而实现更小代价的查询计划。 在大数据系统中引入GPU等新硬件，从而提升物理查询的速度。  </description>
+    </item>
+    
+    <item>
+      <title>大数据集群引擎GPU加速</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/</guid>
+      <description>项目介绍 在大数据计算领域，SQL或类SQL语言通常作为ETL开发人员、数据分析人员的主要工具与集群进行资源交互和任务下发。在SQL开发完成后，会进行进一步的优化；一些常见的优化手段包括：修改SQL写法以获得更优的执行计划、数 据分布的优化、执行引擎参数的调整等。即使经过大量的优化，很多 SQL仍需大量的时间进行执行，其中 CPU 计算操作占很大比例。如要在量级上达到性能提升，需要进一步对执行方式进行改变。其中，众多工作者在新型硬件技术在数据库计算的使用上进行了广泛的研究，包括但不限于 FPGA、GPU，更有对数据库定制化的硬件。研究证实新硬件在特定场合下对计算效率有显著提升。本项目主要解决 在 GPU 被引入时，异构计算系统对SQL执行计算加速在大数据系统Hive上所面临的关键技术问题。</description>
     </item>
     
     <item>
@@ -128,6 +141,15 @@
     </item>
     
     <item>
+      <title>数据洞察挖掘与数据故事</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/</guid>
+      <description>项目背景介绍 如今是大数据的年代，如何高效分析爆炸式增长的多维数据成为各行各业面临的共同难题。我们希望推出一种高效的数据挖掘与可视化技术，可以从用户提供的多维数据表中智能地提取出用户可能更感兴趣的内容，并探寻这些信息之间的逻辑联系，生成一系列高质量有意义的可视化数据故事片段展现给用户。无论是业内的分析专家或是对数据感兴趣的普通人，都可以从我们系统生成的数据故事中找到灵感，并应用于他们的工作中，这是非常有意义的。</description>
+    </item>
+    
+    <item>
       <title>计算机视觉和生物特征识别</title>
       <link>https://dbgroup-sustech.github.io/zh/project/project_zengd_short_zh/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
@@ -136,12 +158,13 @@
       <description>Reserach Project I - 二维人脸识别以及三维人脸建模 近年来，非约束环境下的人脸识别技术取得了显著的发展，甚至在一些公开数据库上人脸识别技术早已超越了人眼识别的准确率，取得了令人满意的结果。但在面向公共安全的监控环境下，采集的人脸图像姿态变化大、分辨率低、光照及表情均不可控，由这些因素引起的人脸外观的复杂变化可能会大于由身份差异带来的变化，这使得人脸识别性能急剧下降。
 三维人脸重建指从单张二维图像中估计出人脸三维几何信息，是计算机视觉领域的热门课题。三维人脸重建有着广泛的现实应用，包括：辅助人脸识别、生成人脸动画，以及进行人脸表情分析。本质上，这是个病态问题因为不同的三维人脸模型可映射得到相同的二维人脸图像。
 本人博士期间从事人脸识别集人脸三维建模工作，发表的论文请见CV。
- Research 1   Reserach Project II - 人脸图像超分（人脸虚幻脸） 人脸超分辨率指从低分辨率图像中恢复出对应高分辨率人脸图像，是图像处理领域的重要研究课题。人脸图像超分有着广泛的应用场景，包括：安防领域中关口控制、监控视频以及交通监控。本质上，这是个病态问题因为不同的高分辨率图像可以对应相同的低分辨率图像。
+  Research 1   Reserach Project II - 人脸图像超分（人脸虚幻脸） 人脸超分辨率指从低分辨率图像中恢复出对应高分辨率人脸图像，是图像处理领域的重要研究课题。人脸图像超分有着广泛的应用场景，包括：安防领域中关口控制、监控视频以及交通监控。本质上，这是个病态问题因为不同的高分辨率图像可以对应相同的低分辨率图像。
 应对解决超分变率的问题，我们团队完成了两篇学术论文投稿，一篇&amp;quot;Face Super-Resolution with Highway for High Frequency Signal&amp;quot;投递到了CVPR2021，另一篇&amp;quot;Progressive Face Super-Resolution with Shape and Identity Priors&amp;quot;投递到了IJCAI2021.
- Research 2   Reserach Project III - 视网膜识别 视网膜具有丰富的脉管系统，且对于每个人以及每只眼睛而言都是独特的。与其他生物特征相比，视网膜脉络系统不容易被改变或复制，被公认为最为安全的生物特征。视网膜识别是指通过视网膜图像来识别人的身份。通常，视网膜图像的采集需要对采集者的高度配合，以及和采集设备的接触，这些约束条件制约了网膜识别在公共安全上的应用。
+  Research 2   Reserach Project III - 视网膜识别 视网膜具有丰富的脉管系统，且对于每个人以及每只眼睛而言都是独特的。与其他生物特征相比，视网膜脉络系统不容易被改变或复制，被公认为最为安全的生物特征。视网膜识别是指通过视网膜图像来识别人的身份。通常，视网膜图像的采集需要对采集者的高度配合，以及和采集设备的接触，这些约束条件制约了网膜识别在公共安全上的应用。
 该研究课题处于初期探索阶段。 image = &amp;ldquo;research3.jpg&amp;rdquo;
 Reserach Project IV - 面向股票预测的表情识别 表情识别对人脸图像的情绪进行分类，常见表情包括：愤怒、害怕、惊讶、难过、开心等。通过分析CEO在股票上市前路演视频中表情的变化，我们可以对于股票的涨跌进行预测。该项目属于计算机系和金融系的合作项目。
-该研究课题正在进行。  Research 2   Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题与深圳市人民医院合作，目前处于前期数据采集阶段。</description>
+该研究课题正在进行。   Research 2  
+Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题与深圳市人民医院合作，目前处于前期数据采集阶段。</description>
     </item>
     
     <item>
@@ -495,16 +518,7 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/about/</guid>
-      <description>About DB Group The research group introduction should be given here.  Group Photo    Group Photo   </description>
-    </item>
-    
-    <item>
-      <title>DBGroup2021年末团建活动圆满结束</title>
-      <link>https://dbgroup-sustech.github.io/zh/post/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/zh/post/post2/</guid>
-      <description></description>
+      <description>About DB Group The research group introduction should be given here.    Group Photo     Group Photo</description>
     </item>
     
     <item>
