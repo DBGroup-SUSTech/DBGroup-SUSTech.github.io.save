@@ -117,7 +117,7 @@ tag = "tags"
  [params.open_projects]
    title = "Ongoing Projects"
    subtitle = ""
-   count = 3
+   count = 5
    str_all = ""
 
   # Contact section.
