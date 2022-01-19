@@ -15,7 +15,7 @@ url_pdf = "https://openproceedings.org/2017/conf/edbt/paper-138.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

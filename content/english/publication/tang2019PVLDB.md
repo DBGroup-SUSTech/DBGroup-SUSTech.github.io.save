@@ -15,7 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol12/p1181-tang.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

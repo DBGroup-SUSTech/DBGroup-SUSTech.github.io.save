@@ -15,6 +15,7 @@ url_pdf = "https://www.danzeng.org/publications/2018TPAMI.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
     name = "Feng Liu"
 

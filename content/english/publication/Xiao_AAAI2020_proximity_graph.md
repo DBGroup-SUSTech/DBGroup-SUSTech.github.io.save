@@ -15,7 +15,7 @@ url_pdf = "https://doi.org/10.1609/aaai.v34i01.5344"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "Jie Liu, Xiao Yan, Xinyan Dai, Zhirong Li, James Cheng, Ming-Chang Yang"

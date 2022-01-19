@@ -15,7 +15,9 @@ url_pdf = "http://www4.comp.polyu.edu.hk/~csbtang/pub/EDBT17_trajmotif.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
     id = "tangbo"
+
 +++

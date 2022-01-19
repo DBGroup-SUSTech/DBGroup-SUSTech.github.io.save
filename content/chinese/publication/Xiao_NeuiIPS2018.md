@@ -15,7 +15,7 @@ url_pdf = "https://papers.nips.cc/paper/7559-norm-ranging-lsh-for-maximum-inner-
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "Xiao Yan, Jinfeng Li, Xinyan Dai, Hongzhi Chen, James Cheng"

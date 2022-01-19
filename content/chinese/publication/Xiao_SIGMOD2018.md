@@ -15,7 +15,7 @@ url_pdf = "https://www.cse.cuhk.edu.hk/~jcheng/papers/l2h_sigmod18.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "Jinfeng Li, Xiao Yan, Jian Zhang, An Xu et al."

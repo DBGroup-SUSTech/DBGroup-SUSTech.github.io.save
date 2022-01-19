@@ -15,7 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/abstract/document/8571265"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 5
+sort_position = 6
 
 [[authors]]
 name = "Feng Liu; Qijun Zhao; Xiaoming Liu; Dan Zeng"

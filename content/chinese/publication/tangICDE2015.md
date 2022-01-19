@@ -15,7 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113285"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 10
+sort_position = 1000
 
 [[authors]]
     name = "Bo Tang"

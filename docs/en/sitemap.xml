@@ -410,6 +410,16 @@
   <url>
     <loc>https://dbgroup-sustech.github.io/publication/xiao_aaai2020/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_aaai2020/"
+                />
   </url>
   
   <url>
@@ -715,6 +725,16 @@
   <url>
     <loc>https://dbgroup-sustech.github.io/publication/xiao_sigmod2018/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_sigmod2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_sigmod2018/"
+                />
   </url>
   
   <url>
@@ -735,6 +755,16 @@
   <url>
     <loc>https://dbgroup-sustech.github.io/publication/xiao_vldb2018/</loc>
     <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_vldb2018/"
+                />
   </url>
   
   <url>
@@ -1034,18 +1064,58 @@
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new6/"
+                />
   </url>
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new3/"
+                />
   </url>
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new7/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new7/"
+                />
   </url>
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new8/"
+                />
   </url>
   
   <url>
@@ -1105,15 +1175,31 @@
   </url>
   
   <url>
-    <loc>https://dbgroup-sustech.github.io/post/new1/</loc>
-  </url>
-  
-  <url>
     <loc>https://dbgroup-sustech.github.io/post/new2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new2/"
+                />
   </url>
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new5/"
+                />
   </url>
   
   <url>
@@ -1160,6 +1246,16 @@
   
   <url>
     <loc>https://dbgroup-sustech.github.io/post/new4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/post/new4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/post/new4/"
+                />
   </url>
   
   <url>

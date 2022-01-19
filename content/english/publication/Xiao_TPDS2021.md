@@ -15,8 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/document/9373916"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
-
+sort_position = 100
 [[authors]]
 name = "Yidi Wu; Kaihao Ma; Xiao Yan et al."
 +++

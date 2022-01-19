@@ -15,7 +15,7 @@ url_pdf = "https://acm.sustech.edu.cn/btang/pub/SIGIR19_GPUIR.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

@@ -16,7 +16,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 1000
+sort_position = -1
 [[authors]]
     name = "unknown"
 +++

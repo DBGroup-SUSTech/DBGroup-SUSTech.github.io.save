@@ -15,7 +15,7 @@ url_pdf = "https://dl.acm.org/doi/10.1145/3397271.3401045"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "Xinyan DAI, Xiao Yan, Kaiwen Zhou, Yuxuan Wang, Han Yang, James Cheng"

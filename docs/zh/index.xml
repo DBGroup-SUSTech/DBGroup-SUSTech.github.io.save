@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size.</title>
+      <title>Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -251,6 +251,15 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
     
     <item>
       <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -433,11 +442,29 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     </item>
     
     <item>
+      <title>A General and Efficient Querying Method for Learning to Hash</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_sigmod2018/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_sigmod2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On 3D face reconstruction via cascaded regression in shape space</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlexPS: flexible parallelism control in parameter server architecture</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/</guid>
       <description></description>
     </item>
     
@@ -658,6 +685,42 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     </item>
     
     <item>
+      <title>2021届孙挺同学入选十佳毕业生</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/new6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021年唐博获得SIGMOD中国新星奖</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/new3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021年本科生卢斓同学获国家奖学金</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/new7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021年积极参与数据库相关学术活动</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/new8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About DBGroup</title>
       <link>https://dbgroup-sustech.github.io/zh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -667,11 +730,20 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     </item>
     
     <item>
-      <title>Dr. Bo Tang won ACM SIGMOD China Rising Star at 2021！</title>
-      <link>https://dbgroup-sustech.github.io/zh/post/post1/</link>
+      <title>DBGroup2021年与华为高斯数据库部签订 新型数据库创新技术研究中心</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/zh/post/post1/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/post/new2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBGroup与Zilliz斩获 NeurPIS竞赛冠军</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/post/new5/</guid>
       <description></description>
     </item>
     
@@ -694,11 +766,11 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
     </item>
     
     <item>
-      <title>News place holder</title>
-      <link>https://dbgroup-sustech.github.io/zh/post/post3/</link>
+      <title>SUSTech_DBGroup队斩获 2021年 SIGMOD Programming Contest全球冠军</title>
+      <link>https://dbgroup-sustech.github.io/zh/post/new4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/zh/post/post3/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/post/new4/</guid>
       <description></description>
     </item>
     

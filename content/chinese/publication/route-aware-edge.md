@@ -15,7 +15,7 @@ url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13712"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "W. Zeng,Q. Shen,Y. Jiang,A. Telea"

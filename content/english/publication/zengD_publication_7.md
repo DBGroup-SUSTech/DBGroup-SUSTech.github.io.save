@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2016ECCV.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Feng Liu"
 

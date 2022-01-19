@@ -15,6 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol13/p2805-ning.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]    
 name = "Wentao Ning"    
 

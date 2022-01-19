@@ -15,7 +15,7 @@ url_pdf = "https://doi.org/10.1609/aaai.v34i01.5333"
 url_project = ""
 url_slides = ""
 url_video = ""
-sort_position = 4
+sort_position = 100
 
 [[authors]]
 name = "Xinyan Dai, Xiao Yan, Kelvin K. W. Ng, Jiu Liu, James Cheng"

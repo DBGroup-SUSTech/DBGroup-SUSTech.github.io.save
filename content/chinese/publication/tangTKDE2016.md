@@ -15,7 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/document/7374714/"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
     id = "tangbo"

@@ -15,7 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol11/p866-mouratidis.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++
