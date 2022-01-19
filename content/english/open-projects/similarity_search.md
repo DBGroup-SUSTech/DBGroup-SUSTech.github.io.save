@@ -2,7 +2,7 @@
 date = "2020-05-22T14:45:00+02:00"
 title = "Efficient Large-Scale Similarity Retrieval Algorithm"
 description=""
-count = 3
+sort_position = 3
 +++
 
 # Project Introduction

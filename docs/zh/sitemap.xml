@@ -388,21 +388,6 @@
   </url>
   
   <url>
-    <loc>https://dbgroup-sustech.github.io/zh/open-projects/gan/</loc>
-    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/open-projects/gan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/open-projects/gan/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/system/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -464,6 +449,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/gan/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/gan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/gan/"
                 />
   </url>
   

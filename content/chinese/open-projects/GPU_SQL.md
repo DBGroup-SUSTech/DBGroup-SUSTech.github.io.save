@@ -3,7 +3,7 @@ date = "2020-05-22T14:45:00+02:00"
 title = "大数据集群引擎GPU加速"
 description=""
 short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life"
-count = 3
+sort_position = 2
 +++
 
 # 项目介绍

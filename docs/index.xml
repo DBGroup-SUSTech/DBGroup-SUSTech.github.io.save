@@ -179,7 +179,7 @@
     </item>
     
     <item>
-      <title>中瑞恒大型综合体生命系统大数据平台</title>
+      <title>Large-scale complex life system big data platform</title>
       <link>https://dbgroup-sustech.github.io/open-projects/zrh/</link>
       <pubDate>Sun, 27 Dec 2020 14:45:00 +0200</pubDate>
       
@@ -237,6 +237,24 @@
     </item>
     
     <item>
+      <title>Automatic Data Insight Mining and Storytelling</title>
+      <link>https://dbgroup-sustech.github.io/open-projects/project_peiqiyuan/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/open-projects/project_peiqiyuan/</guid>
+      <description>Project Introduction Now is the era of big data, how to efficiently analyze the explosive growth multidimensional data has become a common problem faced by all walks of life. We hope to introduce an efficient data mining and visualization technology that can intelligently extract some insights that users may be more interested in from the multidimensional data tables provided by users. Then, explore the logical connection between these insights, and generate a series of high-quality and meaningful visualized data story segments to show to users.</description>
+    </item>
+    
+    <item>
+      <title>Big data cluster engine with GPU acceleration</title>
+      <link>https://dbgroup-sustech.github.io/open-projects/gpu_sql/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/open-projects/gpu_sql/</guid>
+      <description>Project Introduction 在大数据计算领域，SQL或类SQL语言通常作为ETL开发人员、数据分析人员的主要工具与集群进行资源交互和任务下发。在SQL开发完成后，会进行进一步的优化；一些常见的优化手段包括：修改SQL写法以获得更优的执行计划、数 据分布的优化、执行引擎参数的调整等。即使经过大量的优化，很多 SQL仍需大量的时间进行执行，其中 CPU 计算操作占很大比例。如要在量级上达到性能提升，需要进一步对执行方式进行改变。其中，众多工作者在新型硬件技术在数据库计算的使用上进行了广泛的研究，包括但不限于 FPGA、GPU，更有对数据库定制化的硬件。研究证实新硬件在特定场合下对计算效率有显著提升。本项目主要解决 在 GPU 被引入时，异构计算系统对SQL执行计算加速在大数据系统Hive上所面临的关键技术问题。</description>
+    </item>
+    
+    <item>
       <title>Computer Vision</title>
       <link>https://dbgroup-sustech.github.io/project/project_model_zengd_short/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
@@ -288,24 +306,6 @@
       
       <guid>https://dbgroup-sustech.github.io/project/project_model_vis/</guid>
       <description>Efficient and effective data visualization Spatial-temporal visualization techniques have been applied in various real-world applications and assist the data exploration by leveraging the sharp perception of human analysts. However, large data visualization is challenging. 1) The long data to visualization latency (query time, computing time and rendering time) always break the continuity of the human involved data exploration loop; 2) visual clutter caused by a large amount of data hinders the ability of the human to discover the insight.</description>
-    </item>
-    
-    <item>
-      <title>大数据集群引擎GPU加速</title>
-      <link>https://dbgroup-sustech.github.io/open-projects/gpu_sql/</link>
-      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/open-projects/gpu_sql/</guid>
-      <description>Project Introduction 在大数据计算领域，SQL或类SQL语言通常作为ETL开发人员、数据分析人员的主要工具与集群进行资源交互和任务下发。在SQL开发完成后，会进行进一步的优化；一些常见的优化手段包括：修改SQL写法以获得更优的执行计划、数 据分布的优化、执行引擎参数的调整等。即使经过大量的优化，很多 SQL仍需大量的时间进行执行，其中 CPU 计算操作占很大比例。如要在量级上达到性能提升，需要进一步对执行方式进行改变。其中，众多工作者在新型硬件技术在数据库计算的使用上进行了广泛的研究，包括但不限于 FPGA、GPU，更有对数据库定制化的硬件。研究证实新硬件在特定场合下对计算效率有显著提升。本项目主要解决 在 GPU 被引入时，异构计算系统对SQL执行计算加速在大数据系统Hive上所面临的关键技术问题。</description>
-    </item>
-    
-    <item>
-      <title>数据洞察挖掘与数据故事</title>
-      <link>https://dbgroup-sustech.github.io/open-projects/project_peiqiyuan/</link>
-      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/open-projects/project_peiqiyuan/</guid>
-      <description>Project Introduction 如今是大数据的年代，如何高效分析爆炸式增长的多维数据成为各行各业面临的共同难题。我们希望推出一种高效的数据挖掘与可视化技术，可以从用户提供的多维数据表中智能地提取出用户可能更感兴趣的内容，并探寻这些信息之间的逻辑联系，生成一系列高质量有意义的可视化数据故事片段展现给用户。无论是业内的分析专家或是对数据感兴趣的普通人，都可以从我们系统生成的数据故事中找到灵感，并应用于他们的工作中，这是非常有意义的。</description>
     </item>
     
     <item>

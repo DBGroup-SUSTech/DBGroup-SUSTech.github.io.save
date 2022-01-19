@@ -18,5 +18,5 @@ url_video = ""
 sort_position = 6
 
 [[authors]]
-name = "Feng Liu; Qijun Zhao; Xiaoming Liu; Dan Zeng"
+name = "Feng Liu, Qijun Zhao, Xiaoming Liu, Dan Zeng."
 +++

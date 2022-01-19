@@ -3,8 +3,8 @@ date = "2020-05-22T14:45:00+02:00"
 title = "计算机视觉和生物特征识别"
 picture = "projects/CV/images.jpg"
 description="如何让机器像人一样智能地处理图像的视觉信息，完成识别、重建等任务。"
-short_description = "计算机视觉引领智能生活，生物特征识别保障安全生活"
-
+short_description = "计算机视觉引领智能生活，生物特征识别保障安全生活。"
+sort_position = 4
 +++
 
 ## Reserach Project I - 二维人脸识别以及三维人脸建模 

@@ -3,7 +3,7 @@ date = "2020-05-22T14:45:00+02:00"
 title = "GAN inversion for image restoration"
 description=""
 short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life"
-count = 3
+sort_position = 4
 +++
 
 # Project Introductio

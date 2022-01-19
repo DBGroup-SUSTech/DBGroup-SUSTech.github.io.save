@@ -2,7 +2,7 @@
 date = "2020-05-22T14:45:00+02:00"
 title = "高效的大规模相似性检索算法"
 description=""
-count = 3
+sort_position = 3
 +++
 
 # 项目介绍

@@ -18,5 +18,5 @@ url_video = ""
 sort_position = 5
 
 [[authors]]
-name = "Qiaomu Shen; Yanhong Wu et al."
+name = "Qiaomu Shen, Yanhong Wu et al."
 +++

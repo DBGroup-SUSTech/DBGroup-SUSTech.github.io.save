@@ -3,7 +3,7 @@ date = "2020-05-22T14:45:00+02:00"
 title = "数据洞察挖掘与数据故事"
 description=""
 short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life"
-count = 3
+sort_position = 5
 +++
 # 项目介绍
 
