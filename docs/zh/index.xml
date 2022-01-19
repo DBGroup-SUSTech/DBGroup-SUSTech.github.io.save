@@ -251,10 +251,19 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
     
     <item>
       <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
-      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</link>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</guid>
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Proximity Graph Based Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/</guid>
       <description></description>
     </item>
     
@@ -340,6 +349,15 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
     </item>
     
     <item>
+      <title>Tangram: Bridging Immutable and Mutable Abstractions for Distributed Data Analytics</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -363,6 +381,15 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/atmseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Ranging LSH for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/</guid>
       <description></description>
     </item>
     

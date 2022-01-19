@@ -398,17 +398,32 @@
   </url>
   
   <url>
-    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</loc>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dbgroup-sustech.github.io/publication/xiao_aaai2020/"
+                href="https://dbgroup-sustech.github.io/publication/xiao_aaai2020_norm-explicit_quantization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_aaai2020_proximity_graph/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/"
                 />
   </url>
   
@@ -518,6 +533,21 @@
   </url>
   
   <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_usenix_atc2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -559,6 +589,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/atmseer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_neuiips2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/"
                 />
   </url>
   
