@@ -399,34 +399,6 @@
     </item>
     
     <item>
-      <title>Adaptive Information Processing (5SSB0)</title>
-      <link>https://dbgroup-sustech.github.io/teaching/aip-5ssb0/</link>
-      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/teaching/aip-5ssb0/</guid>
-      <description>In this course, using fundamental concepts of probability theory, we present anintroduction to the design of adaptive information processing systems. Thiscourse extends coursework on adaptive signal processing and can also be taken asan introduction to **machine learning** and **data science**. Typicalapplication areas include pattern recognition, medical signal analysis, speechand language processing, image processing, bio-informatics and robotics.In the 2018/19 academic year, this class is taught in semester B (3rd quarter) and starts on 4-Feb-2019.</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
-      <link>https://dbgroup-sustech.github.io/teaching/bmlip-2019/</link>
-      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/teaching/bmlip-2019/</guid>
-      <description>This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters. We will discuss important algorithms for parameter estimation in these models including the Expectation-Maximization (EM) algorithm and Variational Bayes (VB).</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Machine Learning and Information Processing (5SSD0)</title>
-      <link>https://dbgroup-sustech.github.io/teaching/bmlip/</link>
-      <pubDate>Thu, 23 Aug 2018 14:45:00 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/teaching/bmlip/</guid>
-      <description>Note: This site is currently under construction.---The 2020/21 course &amp;ldquo;Bayesian Machine Learning and Information Processing&amp;rdquo; will start in November 2020 (Q2).
-Course summary This course covers the fundamentals of a Bayesian (i.e., probabilistic) approach to machine learning and information processing systems. The Bayesian approach allows for a unified and consistent treatment of many model-based machine learning techniques. We focus on Linear Gaussian systems and will discuss many useful models and applications, including common regression and classification methods, Gaussian mixture models, hidden Markov models and Kalman filters.</description>
-    </item>
-    
-    <item>
       <title>Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings</title>
       <link>https://dbgroup-sustech.github.io/publication/tang2018pvldb/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -442,17 +414,6 @@ Course summary This course covers the fundamentals of a Bayesian (i.e., probabil
       
       <guid>https://dbgroup-sustech.github.io/join-us/</guid>
       <description>Introduction In the era of big data, we need robust and scalable data processing systems, efficient and general data analysis and information retrieval algorithms, and effective and intelligent data visualization tools. DBGroup is an open, equal and aspirant family, in which we learn from each other and tackle challenging research problems. If you are interested in systems, algorithms and AI, if you have strong implementation or mathematical skills, if you are passionate about research, then welcome to join us!</description>
-    </item>
-    
-    <item>
-      <title>Join DBGroup</title>
-      <link>https://dbgroup-sustech.github.io/research/starter-guide/</link>
-      <pubDate>Thu, 19 Jul 2018 08:50:58 +0200</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/research/starter-guide/</guid>
-      <description>Introduction (Introduction here)
-Research (Research Description here)
-Mission Methodology Expectations and Deliverables Workflow and Tools </description>
     </item>
     
     <item>
@@ -732,15 +693,6 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
       
       <guid>https://dbgroup-sustech.github.io/post/new8/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About DBGroup</title>
-      <link>https://dbgroup-sustech.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/about/</guid>
-      <description>About DB Group The research group introduction should be given here. Group Photo Group Photo</description>
     </item>
     
     <item>

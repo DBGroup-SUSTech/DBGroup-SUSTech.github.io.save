@@ -628,26 +628,6 @@
   </url>
   
   <url>
-    <loc>https://dbgroup-sustech.github.io/teaching/aip-5ssb0/</loc>
-    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/teaching/bmlip-2019/</loc>
-    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/teaching/bmlip/</loc>
-    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/teaching/</loc>
-    <lastmod>2018-08-23T14:45:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dbgroup-sustech.github.io/publication/tang2018pvldb/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -674,36 +654,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dbgroup-sustech.github.io/join-us/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/research/starter-guide/</loc>
-    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/research/starter-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/research/starter-guide/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/research/</loc>
-    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/research/"
                 />
   </url>
   
@@ -1115,20 +1065,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dbgroup-sustech.github.io/post/new8/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/about/"
                 />
   </url>
   
