@@ -5,6 +5,6 @@ description=""
 short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life"
 count = 3
 +++
-## 项目背景介绍
+# Project Introduction
 
 如今是大数据的年代，如何高效分析爆炸式增长的多维数据成为各行各业面临的共同难题。我们希望推出一种高效的数据挖掘与可视化技术，可以从用户提供的多维数据表中智能地提取出用户可能更感兴趣的内容，并探寻这些信息之间的逻辑联系，生成一系列高质量有意义的可视化数据故事片段展现给用户。无论是业内的分析专家或是对数据感兴趣的普通人，都可以从我们系统生成的数据故事中找到灵感，并应用于他们的工作中，这是非常有意义的。

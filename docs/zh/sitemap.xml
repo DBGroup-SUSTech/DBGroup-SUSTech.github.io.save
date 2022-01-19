@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://dbgroup-sustech.github.io/zh/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
@@ -14,7 +15,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/post/post2/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,7 +30,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/post/post2/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/post/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,7 +45,114 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/post/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/dgcl/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/dgcl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/dgcl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/flexps/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/flexps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/flexps/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/tensoropt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/tensoropt/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/on_m-impact_regions_and_standing_top-k_influence_problems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_tpds2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/team/</loc>
     <lastmod>2021-01-18T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -53,22 +165,34 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/team/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/zhang_chaozu/</loc>
     <lastmod>2021-01-18T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/wang_teng_zh/</loc>
     <lastmod>2021-01-16T12:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/caojiaping_zn/</loc>
     <lastmod>2021-01-14T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/li_zelin_zh/</loc>
     <lastmod>2020-12-31T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/yin_peiqi_zh/</loc>
     <lastmod>2020-12-30T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/open-projects/</loc>
     <lastmod>2020-12-27T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -81,7 +205,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/open-projects/zrh/</loc>
     <lastmod>2020-12-27T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -94,7 +220,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/zrh/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/maozunyao/</loc>
     <lastmod>2020-09-01T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -107,7 +235,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/maozunyao/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,20 +250,24 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/"
                 />
-  </url><url>
-    <loc>https://dbgroup-sustech.github.io/zh/publication/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dbgroup-sustech.github.io/publication/"
+                href="https://dbgroup-sustech.github.io/publication/xiao_sigir2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/publication/"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -146,7 +280,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/project/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/open-projects/gan/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -159,7 +295,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/gan/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/system/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -172,7 +310,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/project/system/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -185,7 +325,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/gpu_sql/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/large-scale-similarity-search/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -198,10 +340,14 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/project/large-scale-similarity-search/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/vis_zh/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
     <xhtml:link
@@ -214,10 +360,74 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/project/project_zengd_short_zh/</loc>
     <lastmod>2020-05-22T14:45:00+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/open-projects/similarity_search/</loc>
+    <lastmod>2020-05-22T14:45:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/open-projects/similarity_search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/open-projects/similarity_search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/xiao_aaai2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_1/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -230,10 +440,14 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_1/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/likeming_zh/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/yan-xiao_member_model/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -246,13 +460,19 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/yan-xiao_member_model/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/zeng_jian_zh/</loc>
     <lastmod>2020-01-29T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/ning_wentao_zh/</loc>
     <lastmod>2020-01-14T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_2/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -265,7 +485,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_2/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tang2019pvldb/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -278,7 +500,24 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tang2019pvldb/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/route-aware-edge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -291,7 +530,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -304,7 +545,24 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/atmseer/</loc>
+    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/atmseer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/atmseer/"
+                />
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tang2018pvldb/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -317,7 +575,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tang2018pvldb/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/join-us/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
     <xhtml:link
@@ -330,7 +590,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/join-us/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/research/starter-guide/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
     <xhtml:link
@@ -343,7 +605,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/research/starter-guide/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/research/</loc>
     <lastmod>2018-07-19T08:50:58+02:00</lastmod>
     <xhtml:link
@@ -356,7 +620,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/research/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_4/</loc>
     <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -369,7 +635,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_4/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -382,7 +650,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangsigmod2017/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -395,7 +665,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tangsigmod2017/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_1/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -408,7 +680,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_1/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tansigmod2017_2/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -421,7 +695,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tansigmod2017_2/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_2/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -434,7 +710,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_2/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangedbt2017/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -447,7 +725,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tangedbt2017/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_3/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -460,7 +740,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tb_publication_test_3/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_6/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -473,7 +755,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_6/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_7/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -486,7 +770,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_7/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/huangbo/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -499,7 +785,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/huangbo/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/tangbo/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -512,7 +800,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/tangbo/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/liuhaotian/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -525,10 +815,14 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/liuhaotian/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/hanmingji_en/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/luanwendi/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -541,7 +835,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/luanwendi/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/youzhengxin/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
     <xhtml:link
@@ -554,22 +850,34 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/youzhengxin/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/fuweibao_zh/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/lu_lan_zh/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/member_model_zengd_zh/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/li_qian_zh/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/nan_deng_zh/</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_8/</loc>
     <lastmod>2016-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -582,7 +890,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_8/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_9/</loc>
     <lastmod>2016-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -595,7 +905,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_9/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangtkde2016/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -608,7 +920,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tangtkde2016/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_10/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -621,7 +935,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/zengd_publication_10/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tangicde2015/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -634,7 +950,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/tangicde2015/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -646,7 +964,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/alumni/</loc>
     <xhtml:link
                 rel="alternate"
@@ -658,7 +978,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/alumni/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -670,19 +992,13 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/post/post1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/post/post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/post/post1/"
-                />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/liuenhuai/</loc>
     <xhtml:link
                 rel="alternate"
@@ -694,7 +1010,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/liuenhuai/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/zhangjiashu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -706,19 +1024,13 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/zhangjiashu/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/post/post3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/post/post3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/post/post3/"
-                />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -730,7 +1042,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/tags/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/sunting/</loc>
     <xhtml:link
                 rel="alternate"
@@ -742,7 +1056,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/sunting/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/jixiang/</loc>
     <xhtml:link
                 rel="alternate"
@@ -754,7 +1070,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/jixiang/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/about-us/</loc>
     <xhtml:link
                 rel="alternate"
@@ -766,7 +1084,9 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/about-us/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/wushangxuan/</loc>
     <xhtml:link
                 rel="alternate"
@@ -778,7 +1098,10 @@
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/member/wushangxuan/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://dbgroup-sustech.github.io/zh/member/jiangwen_zh/</loc>
   </url>
+  
 </urlset>

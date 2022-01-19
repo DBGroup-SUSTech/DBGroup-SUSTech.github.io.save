@@ -17,6 +17,60 @@
     </item>
     
     <item>
+      <title>DGCL: an efficient communication library for distributed GNN training</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/dgcl/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/dgcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexps: Flexible parallelism control in parameter server architecture</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/flexps/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/flexps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorOpt: Exploring the tradeoffs in distributed DNN training with auto-parallelism</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size.</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On m-Impact Regions and Standing Top-k Influence Problems.</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Deep Learning in Multi-Tenant GPU Clusters</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>张超祖</title>
       <link>https://dbgroup-sustech.github.io/zh/member/zhang_chaozu/</link>
       <pubDate>Mon, 18 Jan 2021 15:52:22 +0200</pubDate>
@@ -71,7 +125,7 @@
 项目架构 项目难点 权限管理: 项目系统共有四个子模块，用户权限结构复杂，每个层级的用户在四个模块中均有着完全不同的功能行为，四个模块之间的权限信息交互成为一大难点。我们最终采用URL传参与声明全局变量的方法来保持模块间权限信息的一致性。
 数据清洗: 企业数据库信息量庞大，列信息大量冗余，多数表缺少必要的主键外键等，表间耦合性较高，直接使用企业的数据库并不现实。我们将表单模块化，删除冗余列，通过聚合表单、创建主键、添加外键和索引等对企业数据库进行重构，并将部分数据缓存至前端与后端框架中以提升查询速度。
 可视化质量: 中瑞恒公司致力于为客户提供安全分析咨询等一系列服务，专业方向与我们的团队相差甚远，如何提升数据可视分析的质量成为难题。我们与该企业相关方面的专家密切联系，了解业其内标准与行业指标，为其设计个性化的分析算法与数据可视化方式，提高可视分析质量。
-可视化效果展示   </description>
+可视化效果展示 </description>
     </item>
     
     <item>
@@ -93,12 +147,21 @@
     </item>
     
     <item>
+      <title>Convolutional embedding for edit distance</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GAN inversion for image restoration</title>
       <link>https://dbgroup-sustech.github.io/zh/open-projects/gan/</link>
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/open-projects/gan/</guid>
-      <description>Project Introduction As a kind of generative model, GAN can transform a random noise to a specific domain of image like face image, car image, cat image, etc. Its performance is quite remarkable such that it is hard for humans to distinguish between the pictures it generates and the real pictures, which makes people think that GAN has learned the physical rules behind the pictures it generates. We call what it learns as GAN prior.</description>
+      <description>项目介绍 As a kind of generative model, GAN can transform a random noise to a specific domain of image like face image, car image, cat image, etc. Its performance is quite remarkable such that it is hard for humans to distinguish between the pictures it generates and the real pictures, which makes people think that GAN has learned the physical rules behind the pictures it generates. We call what it learns as GAN prior.</description>
     </item>
     
     <item>
@@ -146,7 +209,7 @@
       <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/open-projects/project_peiqiyuan/</guid>
-      <description>项目背景介绍 如今是大数据的年代，如何高效分析爆炸式增长的多维数据成为各行各业面临的共同难题。我们希望推出一种高效的数据挖掘与可视化技术，可以从用户提供的多维数据表中智能地提取出用户可能更感兴趣的内容，并探寻这些信息之间的逻辑联系，生成一系列高质量有意义的可视化数据故事片段展现给用户。无论是业内的分析专家或是对数据感兴趣的普通人，都可以从我们系统生成的数据故事中找到灵感，并应用于他们的工作中，这是非常有意义的。</description>
+      <description>项目介绍 如今是大数据的年代，如何高效分析爆炸式增长的多维数据成为各行各业面临的共同难题。我们希望推出一种高效的数据挖掘与可视化技术，可以从用户提供的多维数据表中智能地提取出用户可能更感兴趣的内容，并探寻这些信息之间的逻辑联系，生成一系列高质量有意义的可视化数据故事片段展现给用户。无论是业内的分析专家或是对数据感兴趣的普通人，都可以从我们系统生成的数据故事中找到灵感，并应用于他们的工作中，这是非常有意义的。</description>
     </item>
     
     <item>
@@ -158,13 +221,50 @@
       <description>Reserach Project I - 二维人脸识别以及三维人脸建模 近年来，非约束环境下的人脸识别技术取得了显著的发展，甚至在一些公开数据库上人脸识别技术早已超越了人眼识别的准确率，取得了令人满意的结果。但在面向公共安全的监控环境下，采集的人脸图像姿态变化大、分辨率低、光照及表情均不可控，由这些因素引起的人脸外观的复杂变化可能会大于由身份差异带来的变化，这使得人脸识别性能急剧下降。
 三维人脸重建指从单张二维图像中估计出人脸三维几何信息，是计算机视觉领域的热门课题。三维人脸重建有着广泛的现实应用，包括：辅助人脸识别、生成人脸动画，以及进行人脸表情分析。本质上，这是个病态问题因为不同的三维人脸模型可映射得到相同的二维人脸图像。
 本人博士期间从事人脸识别集人脸三维建模工作，发表的论文请见CV。
-  Research 1   Reserach Project II - 人脸图像超分（人脸虚幻脸） 人脸超分辨率指从低分辨率图像中恢复出对应高分辨率人脸图像，是图像处理领域的重要研究课题。人脸图像超分有着广泛的应用场景，包括：安防领域中关口控制、监控视频以及交通监控。本质上，这是个病态问题因为不同的高分辨率图像可以对应相同的低分辨率图像。
+Research 1 Reserach Project II - 人脸图像超分（人脸虚幻脸） 人脸超分辨率指从低分辨率图像中恢复出对应高分辨率人脸图像，是图像处理领域的重要研究课题。人脸图像超分有着广泛的应用场景，包括：安防领域中关口控制、监控视频以及交通监控。本质上，这是个病态问题因为不同的高分辨率图像可以对应相同的低分辨率图像。
 应对解决超分变率的问题，我们团队完成了两篇学术论文投稿，一篇&amp;quot;Face Super-Resolution with Highway for High Frequency Signal&amp;quot;投递到了CVPR2021，另一篇&amp;quot;Progressive Face Super-Resolution with Shape and Identity Priors&amp;quot;投递到了IJCAI2021.
-  Research 2   Reserach Project III - 视网膜识别 视网膜具有丰富的脉管系统，且对于每个人以及每只眼睛而言都是独特的。与其他生物特征相比，视网膜脉络系统不容易被改变或复制，被公认为最为安全的生物特征。视网膜识别是指通过视网膜图像来识别人的身份。通常，视网膜图像的采集需要对采集者的高度配合，以及和采集设备的接触，这些约束条件制约了网膜识别在公共安全上的应用。
+Research 2 Reserach Project III - 视网膜识别 视网膜具有丰富的脉管系统，且对于每个人以及每只眼睛而言都是独特的。与其他生物特征相比，视网膜脉络系统不容易被改变或复制，被公认为最为安全的生物特征。视网膜识别是指通过视网膜图像来识别人的身份。通常，视网膜图像的采集需要对采集者的高度配合，以及和采集设备的接触，这些约束条件制约了网膜识别在公共安全上的应用。
 该研究课题处于初期探索阶段。 image = &amp;ldquo;research3.jpg&amp;rdquo;
 Reserach Project IV - 面向股票预测的表情识别 表情识别对人脸图像的情绪进行分类，常见表情包括：愤怒、害怕、惊讶、难过、开心等。通过分析CEO在股票上市前路演视频中表情的变化，我们可以对于股票的涨跌进行预测。该项目属于计算机系和金融系的合作项目。
-该研究课题正在进行。   Research 2  
+该研究课题正在进行。 Research 2
 Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题与深圳市人民医院合作，目前处于前期数据采集阶段。</description>
+    </item>
+    
+    <item>
+      <title>高效的大规模相似性检索算法</title>
+      <link>https://dbgroup-sustech.github.io/zh/open-projects/similarity_search/</link>
+      <pubDate>Fri, 22 May 2020 14:45:00 +0200</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/open-projects/similarity_search/</guid>
+      <description>项目介绍 给定相似性度量函数及查询向量，相似性搜索要求从数据库中找到与查询向量最相近的若干个对象。作为大数据领域中最基本的操作，其问题在机器学习，信息检索，自然语言处理等领域有着广泛的应用。由于维度诅咒以及超大规模的数据量，传统的精确检索方案变得低效而不可行。如何构建索引，通过近似的方法实现高效而快速的检索成为了一个亟待解决的问题。基于图的近似检索方法凭借其高效性成为了当前主流，但是其纯内存的特性导致该类方案的可扩展性较弱。本项目旨在探索结合固态硬盘及图方法相关实现高效的算法解决方案。
+</description>
+    </item>
+    
+    <item>
+      <title>Visual interpretation of recurrent neural network on multi-dimensional time-series forecast</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -231,6 +331,15 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
     </item>
     
     <item>
+      <title>Route‐Aware Edge Bundling for Visualizing Origin‐Destination Trails in Urban Traffic</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -245,6 +354,15 @@ Reserach Project V - 孕妇生产时疼痛级别的智能分级 该研究课题�
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmseer: Increasing transparency and controllability in automated machine learning</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/atmseer/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/atmseer/</guid>
       <description></description>
     </item>
     
@@ -518,7 +636,7 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/about/</guid>
-      <description>About DB Group The research group introduction should be given here.    Group Photo     Group Photo</description>
+      <description>About DB Group The research group introduction should be given here. Group Photo Group Photo</description>
     </item>
     
     <item>

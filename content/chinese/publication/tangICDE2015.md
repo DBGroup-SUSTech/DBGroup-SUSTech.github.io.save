@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "IEEE 31st International Conference on Data Engineering (ICDE), Pages 207-218, Seoul, Korea, April 2015."
 publication_short = ""
-selected = true
+selected = false
 title = "Diversified Caching for Replicated Web Search Engines"
 url_code = ""
 url_dataset = ""
@@ -15,6 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113285"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 10
 
 [[authors]]
     name = "Bo Tang"
