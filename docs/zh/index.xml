@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Flexps: Flexible parallelism control in parameter server architecture</title>
-      <link>https://dbgroup-sustech.github.io/zh/publication/flexps/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/zh/publication/flexps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TensorOpt: Exploring the tradeoffs in distributed DNN training with auto-parallelism</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
@@ -71,20 +62,11 @@
     </item>
     
     <item>
-      <title>2021年积极参与数据库相关学术活动</title>
+      <title>DBGroup2021年参与多场数据库相关学术活动</title>
       <link>https://dbgroup-sustech.github.io/zh/post/new8/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/post/new8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DBGroup2021年与华为高斯数据库部签订 新型数据库创新技术研究中心</title>
-      <link>https://dbgroup-sustech.github.io/zh/post/new2/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dbgroup-sustech.github.io/zh/post/new2/</guid>
       <description></description>
     </item>
     
@@ -528,6 +510,15 @@ Mission Methodology Expectations and Deliverables Workflow and Tools </descripti
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexps: Flexible parallelism control in parameter server architecture</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/flexps/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/flexps/</guid>
       <description></description>
     </item>
     

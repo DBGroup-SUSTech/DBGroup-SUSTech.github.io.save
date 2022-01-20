@@ -63,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://dbgroup-sustech.github.io/zh/publication/flexps/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/publication/flexps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/publication/flexps/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -149,21 +134,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/post/new8/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dbgroup-sustech.github.io/zh/post/new2/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dbgroup-sustech.github.io/post/new2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dbgroup-sustech.github.io/zh/post/new2/"
                 />
   </url>
   
@@ -824,6 +794,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dbgroup-sustech.github.io/zh/publication/flexps/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dbgroup-sustech.github.io/publication/flexps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dbgroup-sustech.github.io/zh/publication/flexps/"
                 />
   </url>
   

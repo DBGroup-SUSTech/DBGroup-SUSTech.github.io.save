@@ -60,13 +60,14 @@ name = "ali"
 link = "http://www.alibaba.com"
 image = "/img/sponsors/Alibaba-logo.svg"
 [[params.sponsors]]
-name = "nus"
-link = "https://www.nus.edu.sg/"
-image = "/img/sponsors/nus.svg"
-[[params.sponsors]]
 name = "guowei"
 link = "http://www.smit.com.cn/"
 image = "/img/sponsors/guowei.svg"
+[[params.sponsors]]
+name = "nus"
+link = "https://www.nus.edu.sg/"
+image = "/img/sponsors/nus.svg"
+
 [[params.sponsors]]
 name = "hku"
 link = "https://www.hku.hk/"
