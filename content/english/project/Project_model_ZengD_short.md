@@ -4,8 +4,8 @@ title = "Computer Vision"
 
 picture = "projects/CV/images.jpg"
 description="How to make a computer intelligently understand the visual information of the image like a human."
-short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life"
-
+short_description = "Computer vision for a Intelligent Life and Biometrics for a Secure Life."
+sort_position = 4
 +++
 
 ## Reserach Project I - 2D Face recognition and 3D Face Modeling

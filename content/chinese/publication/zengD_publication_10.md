@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of International Conference on Biometrics (ICB), Phuket, Thailand, May 2015"
 publication_short = "ICB2015"
-selected = true
+selected = false
 title = "Example-Based 3D Face Reconstruction from Uncalibrated Frontal and Profile Images"
 url_code = ""
 url_dataset = ""
@@ -14,7 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2015ICB.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Jing Li"
 [[authors]]

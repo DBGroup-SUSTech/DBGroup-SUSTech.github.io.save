@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "44th International Conference on Very Large Data Bases (PVLDB), Rio de Janeiro, RJ, Brazil, August 2018."
 publication_short = ""
-selected = true
+selected = false
 title = "Exact Processing of Uncertain Top-k Queries in Multi-criteria Settings"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol11/p866-mouratidis.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

@@ -6,13 +6,112 @@
     <description>Recent content in DBGroup Team on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DGCL: an efficient communication library for distributed GNN training</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/dgcl/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/dgcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorOpt: Exploring the tradeoffs in distributed DNN training with auto-parallelism</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/tensoropt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying Top-k with Skyline Queries: Relaxing the Preference Input while Producing Output of Controllable Size</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/marrying-top-k-with-skylinqueries_relaxing_the_preference_input_while_producing_output_of_controllable_size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On m-Impact Regions and Standing Top-k Influence Problems</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/on_m-impact_regions_and_standing_top-k_influence_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic Deep Learning in Multi-Tenant GPU Clusters</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_tpds2021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CheetahVIS: A Visual Analytical System for Large Urban Bus Data</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/ningwentao_publication_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional embedding for edit distance</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_sigir2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual interpretation of recurrent neural network on multi-dimensional time-series forecast</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/visual_interpretation_of_recurrent_neural_network_on_multi-dimensional_time-series_forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_norm-explicit_quantization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Proximity Graph Based Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_aaai2020_proximity_graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/joint_face_alignment_and_3d_face_reconstruction_with_application_to_face_recognition/</guid>
       <description></description>
     </item>
     
@@ -44,6 +143,24 @@
     </item>
     
     <item>
+      <title>Route‐Aware Edge Bundling for Visualizing Origin‐Destination Trails in Urban Traffic</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/route-aware-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangram: Bridging Immutable and Mutable Abstractions for Distributed Data Analytics</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_usenix_atc2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/tangsigir2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -58,6 +175,24 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmseer: Increasing transparency and controllability in automated machine learning</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/atmseer/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/atmseer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-Ranging LSH for Maximum Inner Product Search</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_neuiips2018/</guid>
       <description></description>
     </item>
     
@@ -80,11 +215,38 @@
     </item>
     
     <item>
+      <title>A General and Efficient Querying Method for Learning to Hash</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_sigmod2018/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_sigmod2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On 3D face reconstruction via cascaded regression in shape space</title>
       <link>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dbgroup-sustech.github.io/zh/publication/zengd_publication_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlexPS: flexible parallelism control in parameter server architecture</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/xiao_vldb2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexps: Flexible parallelism control in parameter server architecture</title>
+      <link>https://dbgroup-sustech.github.io/zh/publication/flexps/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/zh/publication/flexps/</guid>
       <description></description>
     </item>
     

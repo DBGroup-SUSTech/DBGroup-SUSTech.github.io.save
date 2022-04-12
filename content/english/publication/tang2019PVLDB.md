@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "45th International Conference on Very Large Data Bases (PVLDB), Los Angeles, California, USA, August 2019"
 publication_short = ""
-selected = true
+selected = false
 title = "Creating Top Ranking Options in the Continuous Option and Preference Space"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol12/p1181-tang.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

@@ -3,8 +3,6 @@
 <section id="open-projects" class="home-section">
     <div class="container">
        <div class="row">
-
-
            <div class="row">
                <div class="col-xs-12 col-md-12 section-heading">
                    <h1><a href="{{.Site.BaseURL}}/open-projects/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.open_projects.title }}{{ . | markdownify }}{{ end }}</a></h1>
@@ -14,7 +12,7 @@
 
             <!-- Vacancies -->
             <div class="col-xs-12 col-md-8">
-                {{ range first .Site.Params.open_projects.count (where .Site.RegularPages "Type" "open-projects") }}
+                {{ range first .Site.Params.open_projects.count (sort (where .Site.RegularPages "Type" "open-projects") ".Params.sort_position") }}
                     <div class="article-list-item">
                         {{ if .Content }}
                             {{ .Scratch.Set "link" .Permalink}}

@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Frontiers of Information Technology & Electronic Engineering"
 publication_short = "FoITEE"
-selected = true
+selected = false
 title = "On 3D face reconstruction via cascaded regression in shape space"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2017FoITEE.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Feng Liu"
 

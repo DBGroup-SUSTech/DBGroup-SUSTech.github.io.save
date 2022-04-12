@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of the International Conference on Extending Database Technology (EDBT), Venice, Italy, March 2017"
 publication_short = ""
-selected = true
+selected = false
 title = "Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "https://openproceedings.org/2017/conf/edbt/paper-138.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

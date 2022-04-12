@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "IET Image Processing"
 publication_short = "IPR"
-selected = true
+selected = false
 title = "Combined training strategy for low-resolution face recognition with limited applicationspecific data"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2019IP.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Dan Zeng"
 

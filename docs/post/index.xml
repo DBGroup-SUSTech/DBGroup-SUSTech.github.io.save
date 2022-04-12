@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on DBGroup</title>
+    <title>NEWS Title on DBGroup</title>
     <link>https://dbgroup-sustech.github.io/post/</link>
-    <description>Recent content in Posts on DBGroup</description>
+    <description>Recent content in NEWS Title on DBGroup</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; DB Group, 2020 </copyright>
-    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dbgroup-sustech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBGroup2021年末团建活动圆满结束</title>
       <link>https://dbgroup-sustech.github.io/post/post2/</link>
@@ -17,20 +17,56 @@
     </item>
     
     <item>
-      <title>Dr. Bo Tang won ACM SIGMOD China Rising Star at 2021！</title>
-      <link>https://dbgroup-sustech.github.io/post/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>2021届孙挺同学入选十佳毕业生</title>
+      <link>https://dbgroup-sustech.github.io/post/new6/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/post/post1/</guid>
+      <guid>https://dbgroup-sustech.github.io/post/new6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>News place holder</title>
-      <link>https://dbgroup-sustech.github.io/post/post3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>2021年唐博获得SIGMOD中国新星奖</title>
+      <link>https://dbgroup-sustech.github.io/post/new3/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dbgroup-sustech.github.io/post/post3/</guid>
+      <guid>https://dbgroup-sustech.github.io/post/new3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021年本科生卢斓同学获国家奖学金</title>
+      <link>https://dbgroup-sustech.github.io/post/new7/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/post/new7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBGroup2021年参与多场数据库相关学术活动</title>
+      <link>https://dbgroup-sustech.github.io/post/new8/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/post/new8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBGroup与Zilliz斩获 NeurPIS竞赛冠军</title>
+      <link>https://dbgroup-sustech.github.io/post/new5/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/post/new5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUSTech_DBGroup队斩获 2021年 SIGMOD Programming Contest全球冠军</title>
+      <link>https://dbgroup-sustech.github.io/post/new4/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbgroup-sustech.github.io/post/new4/</guid>
       <description></description>
     </item>
     

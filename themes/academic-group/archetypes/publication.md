@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = [""]
+
 image = ""
 image_preview = ""
 math = false
@@ -16,4 +16,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = -1
+[[authors]]
+    name = "unknown"
 +++

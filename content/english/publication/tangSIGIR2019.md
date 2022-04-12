@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper), Paris, France, July 2019."
 publication_short = ""
-selected = true
+selected = false
 title = "Accelerating Exact Inner Product Retrieval by CPU-GPU Systems"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "https://acm.sustech.edu.cn/btang/pub/SIGIR19_GPUIR.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
 +++

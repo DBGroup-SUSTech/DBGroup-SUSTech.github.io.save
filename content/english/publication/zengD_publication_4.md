@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, June, 2018"
 publication_short = "CVPR2018"
-selected = true
+selected = false
 title = "Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2018CVPR.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Feng Liu"
 

@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of the ACM Conference on Management of Data (SIGMOD), Chicago, Illinois, USA, May 2017"
 publication_short = ""
-selected = true
+selected = false
 title = "Determining the Impact Regions of Competing Options in Preference Space"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "http://www4.comp.polyu.edu.hk/~csbtang/pub/SIGMOD17_kSPR.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 1
 [[authors]]
     name = "Bo Tang"
     id = "tangbo"

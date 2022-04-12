@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "46th International Conference on Very Large Data Bases (PVLDB demo), Tokyo, Japan, August 2020."
 publication_short = "PVLDB 2020 Demo"
-selected = true
+selected = false
 title = "CheetahVIS: A Visual Analytical System for Large Urban Bus Data"
 url_code = ""
 url_dataset = ""
@@ -15,6 +15,7 @@ url_pdf = "http://www.vldb.org/pvldb/vol13/p2805-ning.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]    
 name = "Wentao Ning"    
 

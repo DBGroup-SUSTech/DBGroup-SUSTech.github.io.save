@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of the 14th European Conference on Computer Vision (ECCV), Amsterdam, The Netherlands, October 2016"
 publication_short = "ECCV2016"
-selected = true
+selected = false
 title = "Joint Face Alignment and 3D Face Reconstruction"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2016ECCV.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Feng Liu"
 

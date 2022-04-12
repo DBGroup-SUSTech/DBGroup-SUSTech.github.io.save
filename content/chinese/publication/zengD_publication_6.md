@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Image and Vision Computing"
 publication_short = "IVC"
-selected = true
+selected = false
 title = "Examplar Coherent 3D Face Reconstruction from Forensic Mugshot Database"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2017IVC.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Dan Zeng"
 

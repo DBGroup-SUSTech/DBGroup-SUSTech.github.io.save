@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "IEEE Transactions on Knowledge and Data Engineering(TKDE), pages 1175-1188, 2016"
 publication_short = ""
-selected = true
+selected = false
 title = "Exploit Every Bit: Effective Caching for High-Dimensional Nearest Neighbor Search"
 url_code = ""
 url_dataset = ""
@@ -15,7 +15,7 @@ url_pdf = "https://ieeexplore.ieee.org/document/7374714/"
 url_project = ""
 url_slides = ""
 url_video = ""
-
+sort_position = 100
 [[authors]]
     name = "Bo Tang"
     id = "tangbo"

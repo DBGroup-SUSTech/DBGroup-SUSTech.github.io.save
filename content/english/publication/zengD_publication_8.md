@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of International Conference on Biometrics (ICB), Halmstad, Sweden, June 2016"
 publication_short = "ICB2016"
-selected = true
+selected = false
 title = "Towards resolution invariant face recognition in uncontrolled scenarios"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2016ICB.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Dan Zeng"
 

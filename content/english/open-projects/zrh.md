@@ -1,8 +1,8 @@
 +++
 date = "2020-12-27T14:45:00+02:00"
-title = "中瑞恒大型综合体生命系统大数据平台"
+title = "Large-scale complex life system big data platform"
 picture="projects/zrh/zrhlogo.jpg"
-
+sort_position = 1
 +++
 
 ## 项目介绍

@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Journal of the Optical Society of Korea"
 publication_short = "JOSK"
-selected = true
+selected = false
 title = "A Novel Approach to Mugshot Based Arbitrary View Face Recognition"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2016JOSK.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
 	name = "Dan Zeng"
 

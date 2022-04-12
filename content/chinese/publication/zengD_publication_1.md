@@ -7,7 +7,7 @@ image_preview = ""
 math = false
 publication = "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 publication_short = "IEEE TPAMI"
-selected = true
+selected = false
 title = "Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition"
 url_code = ""
 url_dataset = ""
@@ -15,6 +15,7 @@ url_pdf = "https://www.danzeng.org/publications/2018TPAMI.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 [[authors]]
     name = "Feng Liu"
 

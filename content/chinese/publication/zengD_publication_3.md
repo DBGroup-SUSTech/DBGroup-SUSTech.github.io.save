@@ -6,7 +6,7 @@ image_preview = ""
 math = false
 publication = "Proceedings of International Conference on Biometrics (ICB), Crete, Greece, June 2019"
 publication_short = "ICB2019"
-selected = true
+selected = false
 title = "Likelihood Ratio based Loss to finetune CNNs for Very Low Resolution Face Verification"
 url_code = ""
 url_dataset = ""
@@ -14,6 +14,7 @@ url_pdf = "https://www.danzeng.org/publications/2019ICB.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+sort_position = 100
 
 [[authors]]
 	name = "Dan Zeng"
