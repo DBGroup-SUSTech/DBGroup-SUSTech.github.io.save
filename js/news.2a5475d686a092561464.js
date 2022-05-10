@@ -1,0 +1,2 @@
+$((function(){!function(){let o=$(".footer");o[0].offsetTop<$(window).height()?(o[0].style.position="fixed",o[0].style.bottom="0",o[0].style.width="100%"):o[0].style.position="statics",console.log($(window).height(),o[0].offsetTop)}()}));
+//# sourceMappingURL=news.2a5475d686a092561464.js.map

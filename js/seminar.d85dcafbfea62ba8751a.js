@@ -1,0 +1,2 @@
+window.toggleAbstractDisplay=function(t){const e=document.getElementById(t),i=e.getAttribute("unfold");if(i&&"true"===i)e.style["max-height"]="0",e.setAttribute("unfold","false");else{const t=e.querySelector("div");e.style["max-height"]=t.getBoundingClientRect().height+"px",e.setAttribute("unfold","true")}};
+//# sourceMappingURL=seminar.d85dcafbfea62ba8751a.js.map
